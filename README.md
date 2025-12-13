@@ -2,9 +2,9 @@
 
 This project involves environment setup and tools installation, data extraction from a public API and CSV file with curl, data transformation using jq, awk, and sed and finally data loading in an SQLite database with sqlite3.
 
-# ETL Project
+# Simple ETL
 
-## 1. Setup
+## 1. Environment setup
 
 Install necessary tools:
 

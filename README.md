@@ -1,8 +1,9 @@
 # PublicAPI_ETL_SQLite_project
 
 This project involves environment setup and tools installation, data extraction from a public API and CSV file with curl, data transformation using jq, awk, and sed and finally data loading in an SQLite database with sqlite3.
+> ⚠️ **Note:** This project uses mock data from a public API (JSONPlaceholder) for simple demonstration purposes. No real or sensitive data is involved.
 
-# Simple ETL
+# Simple ETL (Beginner-Friendly)
 
 ## 1. Environment setup
 
